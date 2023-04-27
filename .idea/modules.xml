@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activities/Abstract and interfaces/Abstract and interfaces.iml" filepath="$PROJECT_DIR$/activities/Abstract and interfaces/Abstract and interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/ArrayLists and jumps/ArrayLists and jumps.iml" filepath="$PROJECT_DIR$/activities/ArrayLists and jumps/ArrayLists and jumps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/activities/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Big-O/Big-O.iml" filepath="$PROJECT_DIR$/activities/Big-O/Big-O.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Conditionals/Conditionals.iml" filepath="$PROJECT_DIR$/activities/Conditionals/Conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Conditionals &amp; equals/Conditionals &amp; equals.iml" filepath="$PROJECT_DIR$/activities/Conditionals &amp; equals/Conditionals &amp; equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Dialog box and scanner/Dialog box and scanner.iml" filepath="$PROJECT_DIR$/activities/Dialog box and scanner/Dialog box and scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Encapsulation/Encapsulation.iml" filepath="$PROJECT_DIR$/activities/Encapsulation/Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/File reading and writing/File reading and writing.iml" filepath="$PROJECT_DIR$/activities/File reading and writing/File reading and writing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Generics/Generics.iml" filepath="$PROJECT_DIR$/activities/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Hash map/Hash map.iml" filepath="$PROJECT_DIR$/activities/Hash map/Hash map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/activities/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/JSON/JSON.iml" filepath="$PROJECT_DIR$/activities/JSON/JSON.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Linked list/Linked list.iml" filepath="$PROJECT_DIR$/activities/Linked list/Linked list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Methods/Methods.iml" filepath="$PROJECT_DIR$/activities/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Overloaded/Overloaded.iml" filepath="$PROJECT_DIR$/activities/Overloaded/Overloaded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/Pokemon Battle/Pokemon Battle.iml" filepath="$PROJECT_DIR$/projects/Pokemon Battle/Pokemon Battle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/projects/Pokemon Battle - Partner Project/Pokemon Battle - Partner Project.iml" filepath="$PROJECT_DIR$/projects/Pokemon Battle - Partner Project/Pokemon Battle - Partner Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Queue/Queue.iml" filepath="$PROJECT_DIR$/activities/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Random numbers/Random numbers.iml" filepath="$PROJECT_DIR$/activities/Random numbers/Random numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/activities/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Sets and iterators/Sets and iterators.iml" filepath="$PROJECT_DIR$/activities/Sets and iterators/Sets and iterators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Simple date format/Simple date format.iml" filepath="$PROJECT_DIR$/activities/Simple date format/Simple date format.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/activities/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Static/Static.iml" filepath="$PROJECT_DIR$/activities/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/StringBuilder/StringBuilder.iml" filepath="$PROJECT_DIR$/activities/StringBuilder/StringBuilder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Switch/Switch.iml" filepath="$PROJECT_DIR$/activities/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/Testing/Testing.iml" filepath="$PROJECT_DIR$/activities/Testing/Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activities/XML/XML.iml" filepath="$PROJECT_DIR$/activities/XML/XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cs121.iml" filepath="$PROJECT_DIR$/.idea/cs121.iml" />
+    </modules>
+  </component>
+</project>
