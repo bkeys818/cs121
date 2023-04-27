@@ -2,7 +2,7 @@
 
 ## Description
 
-An introduction to `while` loops
+An introduction to `while` loops.
 
 ## Hardest Part
 

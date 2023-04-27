@@ -2,7 +2,7 @@
 
 ## Description
 
-An introduction to testing
+An introduction to testing.
 
 ## Hardest Part
 
