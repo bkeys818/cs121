@@ -1,0 +1,9 @@
+FUNCTION isPalindrome (String word)
+    IF word is less than or equal to 1 THEN
+        RETURN true
+    SET first to the first letter of the word
+    SET last to the last letter of word
+    IF first isEqual to last THEN
+        CALl isPalindrome with substring of word without first or last letter
+    ELSE
+        RETURN false
